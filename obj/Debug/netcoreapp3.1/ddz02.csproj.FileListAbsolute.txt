@@ -1,0 +1,13 @@
+C:\projects\ddz02\bin\Debug\netcoreapp3.1\ddz02.exe
+C:\projects\ddz02\bin\Debug\netcoreapp3.1\ddz02.deps.json
+C:\projects\ddz02\bin\Debug\netcoreapp3.1\ddz02.runtimeconfig.json
+C:\projects\ddz02\bin\Debug\netcoreapp3.1\ddz02.runtimeconfig.dev.json
+C:\projects\ddz02\bin\Debug\netcoreapp3.1\ddz02.dll
+C:\projects\ddz02\bin\Debug\netcoreapp3.1\ddz02.pdb
+C:\projects\ddz02\obj\Debug\netcoreapp3.1\ddz02.csprojAssemblyReference.cache
+C:\projects\ddz02\obj\Debug\netcoreapp3.1\ddz02.csproj.CoreCompileInputs.cache
+C:\projects\ddz02\obj\Debug\netcoreapp3.1\ddz02.AssemblyInfoInputs.cache
+C:\projects\ddz02\obj\Debug\netcoreapp3.1\ddz02.AssemblyInfo.cs
+C:\projects\ddz02\obj\Debug\netcoreapp3.1\ddz02.dll
+C:\projects\ddz02\obj\Debug\netcoreapp3.1\ddz02.pdb
+C:\projects\ddz02\obj\Debug\netcoreapp3.1\ddz02.genruntimeconfig.cache
